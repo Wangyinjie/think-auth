@@ -2,7 +2,7 @@
 The ThinkPHP5 Auth Package
 
 ## 安装
-> composer require jason029/think-auth
+> composer require jason029/think-auth:dev-master
 
 ## 配置
 ### 公共配置
